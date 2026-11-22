@@ -1,4 +1,5 @@
-#Hello, I made some change on 2026/11/22
+# Hello, I made some changes on 2026/11/22
+# *******************************************
 # %% [markdown]
 # # Extract Semantic Model Sizes → Lakehouse Delta Table
 # #
